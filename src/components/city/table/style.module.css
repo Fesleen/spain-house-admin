@@ -1,0 +1,18 @@
+.btn-wrap{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.btn-wrap > button {
+    border: none;
+    outline: none;
+    background: none;
+    cursor: pointer;
+}
+
+.btn-wrap > button > i {
+    font-size: 30px;
+    color: #03544c;
+}
